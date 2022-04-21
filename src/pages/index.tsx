@@ -13,12 +13,10 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          alo
-        </h1>
+        <h1 className={styles.title}>teste</h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          s started by editing testessss
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
