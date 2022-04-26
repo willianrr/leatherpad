@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <>
       <Head>
-        <title>Home</title>
+        <title>Home Teste</title>
       </Head>
       <WrapperAll>
         <div className="leftbox">
